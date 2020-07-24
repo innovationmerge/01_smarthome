@@ -1,6 +1,6 @@
 "# 01_smarthome" 
 
-Visit : https://innovationmerge.sytes.net/2020/04/21/smartHome-build/ 
+Visit : https://www.innovationmerge.com/2020/04/21/smartHome-build/
 
 Disclaimer:
 
